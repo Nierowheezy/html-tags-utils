@@ -41,6 +41,10 @@
 		"void",
 		"self-closing"
 	],
+	"bugs": {
+		"url": "https://github.com/nierowheezy/html-tags-utils/issues"
+	},
+	"homepage": "https://github.com/nierowheezy/html-tags-utils#readme",
 	"devDependencies": {
 		"ava": "^6.1.2",
 		"eslint": "^8.57.1",
