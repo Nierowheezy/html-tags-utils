@@ -1,0 +1,92 @@
+[
+	{
+		"tag": "a",
+		"category": "Inline",
+		"description": "Defines a hyperlink.",
+		"attributes": ["href", "target", "rel", "type"]
+	},
+	{
+		"tag": "abbr",
+		"category": "Inline",
+		"description": "Defines an abbreviation or acronym.",
+		"attributes": []
+	},
+	{
+		"tag": "address",
+		"category": "Block",
+		"description": "Defines contact information for the author/owner of a document.",
+		"attributes": []
+	},
+	{
+		"tag": "area",
+		"category": "Void",
+		"description": "Defines a clickable area inside an image map.",
+		"attributes": ["alt", "coords", "href", "target"]
+	},
+	{
+		"tag": "article",
+		"category": "Block",
+		"description": "Defines independent, self-contained content.",
+		"attributes": []
+	},
+	{
+		"tag": "aside",
+		"category": "Block",
+		"description": "Defines content aside from the main content.",
+		"attributes": []
+	},
+	{
+		"tag": "audio",
+		"category": "Embedded",
+		"description": "Defines embedded sound content.",
+		"attributes": ["src", "controls", "autoplay", "loop"]
+	},
+	{
+		"tag": "b",
+		"category": "Inline",
+		"description": "Defines bold text, typically for stylistic reasons.",
+		"attributes": []
+	},
+	{
+		"tag": "base",
+		"category": "Void",
+		"description": "Specifies a default URL and/or target for all links on a page.",
+		"attributes": ["href", "target"]
+	},
+	{
+		"tag": "bdi",
+		"category": "Inline",
+		"description": "Isolates a part of text that might be formatted in a different direction from other text outside it.",
+		"attributes": []
+	},
+	{
+		"tag": "bdo",
+		"category": "Inline",
+		"description": "Overrides the current text direction.",
+		"attributes": ["dir"]
+	},
+	{
+		"tag": "blockquote",
+		"category": "Block",
+		"description": "Defines a section that is quoted from another source.",
+		"attributes": ["cite"]
+	},
+	{
+		"tag": "body",
+		"category": "Root",
+		"description": "Defines the document's body.",
+		"attributes": []
+	},
+	{
+		"tag": "br",
+		"category": "Void",
+		"description": "Inserts a single line break.",
+		"attributes": []
+	},
+	{
+		"tag": "button",
+		"category": "Interactive",
+		"description": "Defines a clickable button.",
+		"attributes": ["disabled", "type", "value"]
+	}
+]

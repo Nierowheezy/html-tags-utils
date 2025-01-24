@@ -1,0 +1,49 @@
+{
+	"name": "html-tags-utils",
+	"version": "1.0.0",
+	"description": "Utility package for HTML tags, including standard, void, and detailed tag information.",
+	"license": "MIT",
+	"repository": "nierowheezy/html-tags-utils",
+	"funding": "https://github.com/nierowheezy/html-tags-utils?",
+	"author": {
+		"name": "Olaniyi Olabode",
+		"email": "olaniyiolabode99@gmail.com",
+		"url": "https://niero-portfolio.vercel.app/"
+	},
+	"type": "module",
+	"exports": {
+		"types": "./index.d.ts",
+		"default": "./index.js"
+	},
+	"sideEffects": false,
+	"engines": {
+		"node": ">=18.20"
+	},
+	"scripts": {
+		"test": "ava"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts",
+		"html-tags.json",
+		"html-tags-void.json",
+		"html-tags-detailed.json"
+	],
+	"keywords": [
+		"html",
+		"html5",
+		"tags",
+		"elements",
+		"list",
+		"whatwg",
+		"w3c",
+		"utils",
+		"void",
+		"self-closing"
+	],
+	"devDependencies": {
+		"ava": "^6.1.2",
+		"eslint": "^8.57.1",
+		"xo": "^0.58.0"
+	}
+}
