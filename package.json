@@ -4,7 +4,7 @@
 	"description": "Utility package for HTML tags, including standard, void, and detailed tag information.",
 	"license": "MIT",
 	"repository": "nierowheezy/html-tags-utils",
-	"funding": "https://github.com/nierowheezy/html-tags-utils?",
+	"funding": "https://github.com/nierowheezy/html-tags-utils",
 	"author": {
 		"name": "Olaniyi Olabode",
 		"email": "olaniyiolabode99@gmail.com",
